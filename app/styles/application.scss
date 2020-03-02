@@ -1,3 +1,18 @@
 .stock-ticker {
-
+    form {
+        padding: 10px;
+        label {
+            display: block;
+            margin: 10px;
+        }
+        input {
+            margin-left: 10px;
+        }
+    }
+}
+.ticker {
+    padding: 10px;
+    p {
+        margin: 10px;
+    }
 }
