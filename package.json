@@ -23,7 +23,7 @@
   "license": "MIT",
   "dependencies": {
     "file-loader": "^0.9.0",
-    "moment": "^2.18.1",
+    "moment": "^2.29.4",
     "prop-types": "^15.5.9",
     "react": "^15.0.2",
     "react-dom": "^15.0.2",
