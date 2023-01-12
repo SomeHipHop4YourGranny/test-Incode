@@ -5,8 +5,8 @@
   "main": "server.js",
   "dependencies": {
     "cors": "2.8.1",
-    "express": "3.21.2",
-    "socket.io": "1.5.1"
+    "express": "4.18.2",
+    "socket.io": "4.5.4"
   },
   "devDependencies": {},
   "scripts": {
